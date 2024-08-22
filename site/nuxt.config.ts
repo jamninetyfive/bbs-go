@@ -58,7 +58,7 @@ export default defineNuxtConfig({
       htmlAttrs: { class: 'theme-light' },
       script: [
         {
-          src: 'https://hm.baidu.com/hm.js?79b8ff82974d0769ef5c629e4cd46629',
+          src: 'https://hm.baidu.com/hm.js',
           type: 'text/javascript',
           async: true
         }
