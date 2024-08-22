@@ -4,9 +4,9 @@ ENV APP_HOME /code/bbs-go/admin
 WORKDIR "$APP_HOME"
 
 COPY . ./
-# RUN npm install -g pnpm --registry=https://registry.npmmirror.com
+RUN npm install --registry=https://registry.npmmirror.com
 # RUN pnpm install --registry=https://registry.npmmirror.com
-RUN npm install
+# RUN npm install
 RUN npm run build:docker
 
 FROM nginx:latest
