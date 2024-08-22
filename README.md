@@ -1,33 +1,3 @@
-## 感谢您的支持与鼓励！如果您喜欢这个开源项目，不妨给它点个⭐️⭐️⭐️，您的星星是我们前进的动力 🙏🙏🙏
-
-
-## 项目地址
-
-- 交流站：[码农俱乐部](https://mlog.club)
-- 文档地址：[https://bbs-go.com](https://bbs-go.com)
-- 问题反馈: [https://mlog.club/topics/node/3](https://mlog.club/topics/node/3)
-- Github: [https://github.com/mlogclub/bbs-go](https://github.com/mlogclub/bbs-go)
-- Gitee: [https://gitee.com/mlogclub/bbs-go](https://gitee.com/mlogclub/bbs-go)
-
-
-## 联系我
-
-### 用户交流群
-![BBS-GO用户交流群](docs/images/qq.png)
-
-### 加我微信
-![BBS-GO用户交流群](docs/images/wechat.png)
-
-## 付费服务
-
-付费是为了项目能够更好的生存下去，请谅解。项目将一如既往的开源下去~
-
-| 服务     | 价格  | 服务内容                                         |
-| -------- | ----- | ------------------------------------------------ |
-| 商用授权 | ￥1628(终生) | 提供bbs-go商业使用授权                             |
-| 付费咨询 | 面议  | 付费答疑解惑，协助解决问题                       |
-| 功能定制 | 面议  | 接受各种功能定制，只有你想不到的没有我们做不到的 |
-
 ## 介绍
 
 `bbs-go`是一个使用Go语言搭建的开源社区系统，采用前后端分离技术，Go语言提供api进行数据支撑，用户界面使用Nuxt.js进行渲染，后台界面基于element-ui。如果你正在学习Go语言，或者考虑转Go语言的Phper/Javaer...那么该项目对你有的学习会有很大的帮助，欢迎一起来交流。
@@ -78,7 +48,3 @@
 ![手机版.png](https://s2.loli.net/2022/04/12/mowWb78CGIaH6T2.png)
 ![后台首页.png](https://s2.loli.net/2022/04/12/ErX2BLTnh7ldz8D.png)
 ![后台配置.png](https://s2.loli.net/2022/04/12/PwK6aC74XEZlIOL.png)
-
-## Contributors
-
-<a href="https://github.com/mlogclub/bbs-go/graphs/contributors"><img src="https://opencollective.com/bbs-go/contributors.svg?width=890&button=false" /></a>
